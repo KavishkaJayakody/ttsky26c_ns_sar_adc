@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "NS_SAR_ADC"      # Project title
+  title:        "NS-SAR_ADC"      # Project title
   author:       "Silicon Edge"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "This is a research project involvinga noise shaping SAR ADC design"      # One line description of what your project does
