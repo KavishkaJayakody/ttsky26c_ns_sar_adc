@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a differential ADC. The 8 bit SAR core is intergrated with a noise shaping loop to boost the ENOB up to 10/12. We incoorporate active/ passive noise shaping techniques
 
 ## How to test
 
-Explain how to use your project
+Connect a bias current source to pin. apply vref_p and vref_n.  connect the differential inputs appropriately
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware other that reference voltage anf current generators are needed
